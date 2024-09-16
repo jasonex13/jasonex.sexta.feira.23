@@ -1,0 +1,6 @@
+  GNU nano 7.2      termcolor
+python-vlc
+pyinstaller
+
+termcolor                                                  python-vlc
+pyinstaller                                                
